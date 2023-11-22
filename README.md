@@ -1,5 +1,4 @@
 # Company Business System Network Design
-# Hotel Network Design
 <h2>Description</h2>
 
 In this lab I will build a Company Business System Network Design
@@ -49,3 +48,9 @@ Document the network design, configurations, and any troubleshooting steps for f
 - <b>CLI packet tracer</b> 
   
 <h2>Environments Used </h2>
+
+<b>Cisco Packet tracer</b>
+
+<h2>Program walk-through:</h2>
+<p align="center">
+<img src="https://i.imgur.com/RWOwJ58.png" height="80%" width="80%" alt="Vlan"/>
